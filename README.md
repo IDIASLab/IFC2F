@@ -2,7 +2,12 @@
 
 ## Introduction
 
-We present IFC2F, an instance-wise dynamic joint feature selection and classification algorithm
+We present IFC2F, an instance-wise dynamic joint feature selection and classification algorithm.
+
+## Description
+
+The source code of IFC2F algorithm is being made available for review purposes as part of the following article: Liyanage, Yasitha Warahena, Zois, Daphney-Stavroula, and Chelmis, Charalampos. Instance-wise Dynamic Joint Feature Selection and Classification with Correlated
+Features. AAAI, 2021.
 
 ## Prerequisites
 
