@@ -4,10 +4,23 @@
 
 We present IFC2F, an instance-wise dynamic joint feature selection and classification algorithm.
 
-## Description
+## Citation
+To cite our paper, please use the following reference:
 
-The source code of IFC2F algorithm is being made available for review purposes as part of the following article: Liyanage, Yasitha Warahena, Zois, Daphney-Stavroula, and Chelmis, Charalampos. Instance-wise Dynamic Joint Feature Selection and Classification with Correlated
-Features. AAAI, 2021.
+Yasitha Warahena Liyanage, Daphney-Stavroula Zois, and Charalampos Chelmis. "Dynamic Instance-Wise Classification in Correlated Feature Spaces." IEEE Transactions on Artifical Intelligence (2021). doi: 10.1109/TAI.2021.3109858.
+
+BibTeX:
+``` 
+@article{liyanage2021correlated, 
+  author={Liyanage, Yasitha Warahena and Zois, Daphney-Stavroula and Chelmis, Charalampos},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={Dynamic Instance-Wise Classification in Correlated Feature Spaces}, 
+  year={2021},
+  volume={2},
+  number={6},
+  pages={537-548},
+  doi={10.1109/TAI.2021.3109858}}
+```
 
 ## Prerequisites
 
